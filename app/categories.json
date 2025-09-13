@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "categories": [
+    {
+      "title": "Kitchen",
+      "icon": "https://yourcdn.com/icons/kitchen.png"
+    },
+    {
+      "title": "Living Room",
+      "icon": "https://yourcdn.com/icons/livingroom.png"
+    },
+    {
+      "title": "Garage",
+      "icon": "https://yourcdn.com/icons/garage.png"
+    }
+  ]
+}
