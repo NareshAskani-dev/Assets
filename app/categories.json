@@ -2,16 +2,24 @@
   "version": 2,
   "categories": [
     {
-      "title": "Kitchen",
-      "icon": "https://yourcdn.com/icons/kitchen.png"
+      "title": "AC",
+      "icon": "https://github.com/NareshAskani-dev/Assets/blob/main/app/icons/ac.png"
     },
     {
-      "title": "Living Room",
-      "icon": "https://yourcdn.com/icons/livingroom.png"
+      "title": "Bulb",
+      "icon": "https://github.com/NareshAskani-dev/Assets/blob/main/app/icons/bulb.png"
     },
     {
-      "title": "Garage",
-      "icon": "https://yourcdn.com/icons/garage.png"
+      "title": "Car",
+      "icon": "https://github.com/NareshAskani-dev/Assets/blob/main/app/icons/car.png"
+    },
+    {
+      "title": "Laptop",
+      "icon": "https://github.com/NareshAskani-dev/Assets/blob/main/app/icons/laptop.png"
+    },
+    {
+      "title": "TV",
+      "icon": "https://github.com/NareshAskani-dev/Assets/blob/main/app/icons/tv.png"
     }
   ]
 }
