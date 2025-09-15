@@ -3,24 +3,30 @@
   "categories": [
     {
       "title": "AC",
-      "icon": "https://raw.githubusercontent.com/NareshAskani-dev/Assets/blob/main/app/icons/ac.png"
+      "icon": "https://raw.githubusercontent.com/NareshAskani-dev/Assets/main/app/icons/ac.png",
+      "modified":true
     },
     {
       "title": "Bulb",
-      "icon": "https://raw.githubusercontent.com/NareshAskani-dev/Assets/blob/main/app/icons/bulb.png"
+      "icon": "https://raw.githubusercontent.com/NareshAskani-dev/Assets/main/app/icons/bulb.png",
+      "modified":true
     },
     {
       "title": "Car",
-      "icon": "https://raw.githubusercontent.com/NareshAskani-dev/Assets/blob/main/app/icons/car.png"
+      "icon": "https://raw.githubusercontent.com/NareshAskani-dev/Assets/main/app/icons/car.png",
+      "modified":true
     },
     {
       "title": "Laptop",
-      "icon": "https://raw.githubusercontent.com/NareshAskani-dev/Assets/blob/main/app/icons/laptop.png"
+      "icon": "https://raw.githubusercontent.com/NareshAskani-dev/Assets/main/app/icons/laptop.png",
+      "modified":true
     },
     {
       "title": "TV",
-      "icon": "https://raw.githubusercontent.com/NareshAskani-dev/Assets/blob/main/app/icons/tv.png"
+      "icon": "https://raw.githubusercontent.com/NareshAskani-dev/Assets/main/app/icons/tv.png",
+      "modified":true
     }
   ]
 }
+
 
